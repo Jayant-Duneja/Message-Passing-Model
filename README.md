@@ -1,6 +1,6 @@
 # Assignment 1
-**Tanvi Kamble**\
-**2018114004**
+**Jayant Duneja**\
+**2018102003**
 
 ## Question 1:
 - Considering the case of only a single process, we have to check if the number is divisble by any numbers in the range of 1 to square root of that number. 
